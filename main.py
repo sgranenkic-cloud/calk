@@ -2,7 +2,7 @@ import math
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8472159060:AAEFU7m3nEBkFGcBP2JHDU_xcMbh6gZyQAU"
 
 main_menu = [["% пульса", "Таблица темпов"], ["Дистанция+темп=время", "Прогноз темпа"], ["Скорость дорожки", "Назад"]]
 
